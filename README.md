@@ -50,3 +50,12 @@ programmer weiß ich nicht genau: USBTinyISP geht bei mir
 6. Den Sketch im Anhang entdecken und mittels „Datei öffnen“ laden
 
 7. Mit dem Pfeill nach rechts Programm auf den ESP8266 hochladen.
+
+## Verkabelung
+
+V+ am LED-Panel an VIN am NodeMCU
+V- am LED-Panel an GND am NodeMCU
+DATA_IN am LED-Panel an D6 am NodeMCU
+DATA_OUT nicht verbinden
+
+Die Stromversorgung über NodeMCU reicht nur knapp aus. In anderen Anleitungen gab es deutliche Spannungsabfälle. Für den Saufinator, wo nie alle LEDs gleichzeitig blinken sollte es ausreichen. Aber ohne Garantie...
