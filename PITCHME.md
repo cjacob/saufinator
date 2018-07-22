@@ -15,7 +15,6 @@ Ein kleines Arduino (Spaß-) Projekt als kleine Hilfe zum Trinken
 ---
 
 ---?image=assets/image/gitpitch-audience.jpg
-# Ende
 
 @fa[twitter gp-contact](@christianjacob)
 
