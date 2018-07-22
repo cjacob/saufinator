@@ -6,13 +6,11 @@ Ein kleines Arduino (Spaß-) Projekt als kleine Hilfe zum Trinken
 
 # Überschrift 1
 
-## Überschrift 2
-
 - Eins
-- Zwei
-- Drei
 
----
+- Zwei
+
+- Drei
 
 ---?code=WS2812B_8x8_drink.ino&title=WS2812B_8x8_drink.ino
 
